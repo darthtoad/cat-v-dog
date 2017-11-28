@@ -1,6 +1,8 @@
 $(document).ready(function() {
   $(".turtle").click(function(){
     $("#turtle-eggs").toggle();
+    $("#turtle-eggs").css("display", "block");
+    $("#turtle-eggs").css("margin", "0 auto");
   });
   $("#turtle-eggs").click(function(){
     $("#turtle-eggs").toggle();
