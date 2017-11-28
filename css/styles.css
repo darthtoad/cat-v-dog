@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 20%;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+.cat {
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.dog {
+  margin-top: 30px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+.turtle {
+  display: block;
+  margin: 0 auto;
+}
+
+.please-work {
+  display: block;
+  margin: 0 auto;
+}
+
+#turtle-eggs {
+  display: none;
+}
+
+.poop {
+  background-color: brown;
+}
